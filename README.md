@@ -1,2 +1,2 @@
-# Typora_imgges
+# Typora_images
 saving the images from Typora
